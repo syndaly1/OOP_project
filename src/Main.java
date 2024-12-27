@@ -9,7 +9,7 @@ public class Main {
 
         Hospital hospital1 = new Hospital(67, "City Hospital", "Almaty");
         Hospital hospital2 = new Hospital(31, "Central Hospital", "Astana");
-
+j
         System.out.println(patient1.getInfo());
         System.out.println(patient2.getInfo());
         System.out.println(doctor1.getInfo());
