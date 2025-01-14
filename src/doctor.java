@@ -1,4 +1,5 @@
 class Doctor {
+    public Doctor() {}
     private int doctorId;
     private String name;
     private String specialty;

@@ -1,4 +1,5 @@
 class Hospital {
+    public Hospital() {}
     private int hospitalId;
     private String name;
     private String location;

@@ -17,8 +17,6 @@ public class Main {
         System.out.println(hospital1.getInfo());
         System.out.println(hospital2.getInfo());
 
-
-        // Compare multiple objects
         System.out.println("\nComparing patients by ID: " + patient1.getPatientId() + " and " + patient2.getPatientId());
         System.out.println("Are the patients the same? " + patient1.equals(patient2));
 

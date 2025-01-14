@@ -1,4 +1,5 @@
 class Patient {
+    public Patient() {}
     private int patientId;
     private String name;
     private int age;
